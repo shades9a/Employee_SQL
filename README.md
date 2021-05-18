@@ -4,4 +4,4 @@ Finding about single letter in a string was difficult
 It's like the game "Portal"
 It looks simple and easy to do,
 but take longer than expected
-and finding the solution makes you feel dumb
+and finding the solution makes you feel dumb.
